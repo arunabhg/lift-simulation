@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Lift Simulation</title>
+    <link rel="icon" href="image/elevator-lift.png" type="image/x-icon" />
+  </head>
+  <body>
+    <header>
+      <h1>LIFT SIMULATION</h1>
+    </header>
+
+    <div class="container">
+      <div id="lift-simulator"></div>
+      <div id="floor4" class="floor-end" onclick="clickedFloorFour()">
+        <button id="Down4" class="btnDown">Down</button>
+        <h4>Floor 4</h4>
+        <hr />
+      </div>
+
+      <div id="floor3" class="floor" onclick="clickedFloorThree()">
+        <div>
+          <button id="Up3" class="btnUp">Up</button>
+        </div>
+        <button id="Down3" class="btnDown">Down</button>
+        <h4>Floor 3</h4>
+        <hr />
+      </div>
+
+      <div id="floor2" class="floor" onclick="clickedFloorTwo()">
+        <div>
+          <button id="Up2" class="btnUp">Up</button>
+        </div>
+        <button id="Down2" class="btnDown">Down</button>
+        <h4>Floor 2</h4>
+        <hr />
+      </div>
+
+      <div id="floor1" class="floor-end" onclick="clickedFloorOne()">
+        <button id="Up1" class="btnUp">Up</button>
+        <h4>Floor 1</h4>
+        <hr />
+      </div>
+    </div>
+
+    <footer>
+      <br />
+      <h5>The contents of this website are deployed from this repo</h5>
+    </footer>
+    <!-- <script src="index.js"></script> -->
+    <script src="app.js"></script>
+  </body>
+</html>
