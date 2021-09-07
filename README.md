@@ -6,6 +6,13 @@ A simple web app that simulates lift mechanism ([link](https://lift-simulation-a
 
 # UI Design
 
+<img
+src="image/Lift_Simulation.png"
+raw=true
+alt="UI Design"
+style="margin-right: 10px;"
+/>
+
 ### Current Features - 
 
 - A minimalistic responsive web design
@@ -15,4 +22,4 @@ A simple web app that simulates lift mechanism ([link](https://lift-simulation-a
 ### Upcoming Features - 
 
 - The UI will render based on the number of floors and lifts entered by the user
-- A better UI
+- A better UI with an upgraded tech stack
