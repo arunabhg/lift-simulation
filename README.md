@@ -2,7 +2,7 @@
 
 ### <p align="center">Project Description</p>
 
-A simple web app that simulates lift mechanism ([link](https://lift-simulation-arunabh.netlify.app/) to the webpage)
+A simple web app that simulates lift mechanism ([link](https://lift-simulation-by-arunabh.netlify.app/) to the webpage)
 
 # UI Design
 
