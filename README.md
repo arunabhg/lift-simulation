@@ -6,7 +6,6 @@ A simple web app that simulates lift mechanism ([link](https://lift-simulation-a
 
 # UI Design
 
-
 ### Current Features - 
 
 - A minimalistic responsive web design
